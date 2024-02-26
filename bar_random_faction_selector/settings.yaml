@@ -1,0 +1,11 @@
+# Remember, yaml doesn't use tabs; only spaces
+filepaths:
+  # Does not need a user variable
+  input_directory: "self.CWD_PATH+'/data/input/'"
+  output_directory: "self.CWD_PATH+'/data/output/'"
+factions:
+  all_factions: "['Cortex', 'Armada', 'Legion']"
+  normal_factions: "['Cortex', 'Armada']"
+factories:
+  all_factories: "['bot', 'vehicle', 'air', 'navy']"
+  land_factories: "['bot', 'vehicle', 'air']"
