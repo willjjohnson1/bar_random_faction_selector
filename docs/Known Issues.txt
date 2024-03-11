@@ -1,0 +1,5 @@
+BAR Random Faction Selector v0.0.0
+Known Issues:
+- Include Navy Factory Checkbox option does not work
+- Include Legion Checkbox option adds Legion and Navy Factory as included.
+- Forgot about the Amphibious Factory

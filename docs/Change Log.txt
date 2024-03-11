@@ -1,0 +1,8 @@
+BAR Random Faction Selector v0.0.0
+Features & Bugfixes:
+- Randomly outputs a Faction and Factory type via a Randomize button.
+- Disable or Enable the Legion faction and Naval Factory with checkboxes
+- GUI uses Light/Dark mode per system settings (i.e. if your OS is set to Dark Mode the GUI will use Dark Mode)
+- Tool compiled into an EXE
+    - Python is not required to be installed on your system
+    - Only requires the settings.yaml file
