@@ -7,5 +7,5 @@ factions:
   all_factions: "['Cortex', 'Armada', 'Legion']"
   normal_factions: "['Cortex', 'Armada']"
 factories:
-  all_factories: "['bot', 'vehicle', 'air', 'navy']"
-  land_factories: "['bot', 'vehicle', 'air']"
+  all_factories: "['air', 'bot', 'hovercraft', 'vehicle', 'navy']"
+  land_factories: "['air', 'bot', 'hovercraft', 'vehicle']"

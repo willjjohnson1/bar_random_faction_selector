@@ -1,3 +1,10 @@
+BAR Random Faction Selector v0.1.0
+- Planned Features & Bugfixes:
+    - Split Air and Hovercraft factories from the default land factories
+        - Add new checkboxes to include or exclude Air and Hovercraft factories
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 BAR Random Faction Selector v0.0.1
 - Planned Features & Bugfixes:
     - Fix the 'Include Naval Factory' checkbox not working

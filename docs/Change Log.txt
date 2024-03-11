@@ -1,3 +1,10 @@
+BAR Random Faction Selector v0.0.1
+Features & Bugfixes:
+- Fixed incorrect handling of checking checkboxes for checked/unchecked (enabled/disabled)
+    - Copy-paste error had checking of the 'Include Naval Factory' checkbox using the 'Include Legion' checkbox
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 BAR Random Faction Selector v0.0.0
 Features & Bugfixes:
 - Randomly outputs a Faction and Factory type via a Randomize button.
