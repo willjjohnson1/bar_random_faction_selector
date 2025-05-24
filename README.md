@@ -17,5 +17,5 @@
 1. Python Source Code is not currently included with this repo.
 2. Development Environment Currently uses Python 3.12.10
 
-![image](https://github.com/user-attachments/assets/f3558394-f177-457d-ad4c-56bb56c7d704)
-<img src="https://github.com/user-attachments/assets/f3558394-f177-457d-ad4c-56bb56c7d704" width="100" height="100">
+
+<img src="https://github.com/user-attachments/assets/f3558394-f177-457d-ad4c-56bb56c7d704" width="480" height="360">
