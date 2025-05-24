@@ -1,3 +1,5 @@
+### Version Control: x.x.x.x where the first is the major version, second is the minor version, third is for unplanned updates, and fourth is for bugfixes
+
 BAR Random Faction Selector v0.0.0
 Known Issues:
 - Include Navy Factory Checkbox option does not work

@@ -1,12 +1,23 @@
+### Version Control: x.x.x.x where the first is the major version, second is the minor version, third is for unplanned updates, and fourth is for bugfixes
+
+BAR Random Faction Selector v0.2.0
+Planned Features & Bugfixes:
+- Change the Taskbar Icon and Title Bar Icon to use the same image as the exe.
+- Add Server Host Toggle which will be used to display additional random BAR settings and BAR Random Faction Selector tool settings
+    - In this version we will start simply with randomly selecting a map
+        - Build a list from my existing directory of Maps or use the users directory? (The latter would require the user setting their filepath)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 BAR Random Faction Selector v0.1.0
-- Planned Features & Bugfixes:
-    - Split Air and Hovercraft factories from the default land factories
-        - Add new checkboxes to include or exclude Air and Hovercraft factories
+Planned Features & Bugfixes:
+- Split Air and Hovercraft factories from the default land factories
+    - Add new checkboxes to include or exclude Air and Hovercraft factories
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 BAR Random Faction Selector v0.0.1
-- Planned Features & Bugfixes:
-    - Fix the 'Include Naval Factory' checkbox not working
-        - Fix the 'Include Legion' checkbox including Naval Factories
-    - Add Amphibious Factories
+Planned Features & Bugfixes:
+- Fix the 'Include Naval Factory' checkbox not working
+    - Fix the 'Include Legion' checkbox including Naval Factories
+- Add Amphibious Factories
