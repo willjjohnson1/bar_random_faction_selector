@@ -18,4 +18,4 @@
 2. Development Environment Currently uses Python 3.12.10
 
 
-<img src="https://github.com/user-attachments/assets/f3558394-f177-457d-ad4c-56bb56c7d704" width="480" height="360">
+<img src="https://github.com/user-attachments/assets/f3558394-f177-457d-ad4c-56bb56c7d704" width="500" height="460">
